@@ -1,5 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseung20&&show_icons=true&theme=vue)]
-
+<div align=center>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseung20&&show_icons=true&theme=dark)
+</div>
 
 <div align=center><h2>📚 Tech Stack </h2></div>
 
