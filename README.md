@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true&theme=vue)](https://github.com/yooseung20/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true)
 </div>
 
 <!--
