@@ -1,8 +1,5 @@
-<div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseung20&&show_icons=true&theme=dark)
-</div>
 
-<div align=center><h2>📚 Tech Stack </h2></div>
+<div align=center><h2>📚 Tech Stack 📚</h2></div>
 
 <div align=center>
   <br>
@@ -29,8 +26,14 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>  
+
 </div>
 
+
+<div align=center><h2>✨ Git Stats ✨</h2></div>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseung20&&show_icons=true&theme=buefy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseung20&layout=compact&theme=buefy)
 
 
 <!--
