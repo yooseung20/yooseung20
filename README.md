@@ -36,8 +36,7 @@
 <div style= align: center; width: 50%; height: 50%;>
   
    
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseung20&layout=compact&theme=buefy&hide_border=True)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseung20&layout=compact&theme=buefy&hide_border=True)
   
 
 </div>
