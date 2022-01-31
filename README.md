@@ -1,5 +1,5 @@
 
-<div align=center><h1>📚 Tech Stack </h1></div>
+<div align=center><h2>📚 Tech Stack </h2></div>
 
 <div align=center>
   <br>
@@ -27,9 +27,11 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>  
 </div>
+
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true&theme=vue-dark)
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseung20&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseung20&layout=compact&theme=vue-dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
