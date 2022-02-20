@@ -36,7 +36,9 @@
 <div style= align: center; width: 50%; height: 50%;>
   
    
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseung20&layout=compact&theme=buefy&hide_border=True)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yooseung20&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true&theme=dracula&layout=compact&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseung20&layout=compact&theme=dracula&card_width=300)
   
 
 </div>
