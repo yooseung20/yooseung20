@@ -1,46 +1,60 @@
 
+<div align="center">
+<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F7F4F4&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%BE+zoey's+github+%F0%9F%92%BE+" alt="Typing SVG" /h2></a>
+</div>
 
 
-
+<!--
 <div align=center><h2>📚 Tech Stack 📚</h2></div>
 
-<div align=center>
-  <br>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white">
-  <br>
+<div align=center><h3>🚀 Skills 🚀</h3>
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
-  <br> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=gitlab&logoColor=white">
-<br>
+  
+</div>
+
+<div align=center><h3>⏱️ Workflow Platforms⏱️</h3>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
+</div>
+
+<div align=center><h3>☁️ Cloud ☁️</h3>
+ <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@siadada">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:aaay8228@gmail.com">
+    <img
+      src="https://img.shields.io/badge/aaay8228@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+<div align=center><h3>🥅 Other 🥅 </h3>
+ 
+</div>
+
   
 <div align=center><h2>✨ Git Stats ✨</div>
   
 <div style= align: center; width: 50%; height: 50%;>
-  
-   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yooseung20&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yooseung20&show_icons=true&theme=dracula&layout=compact&hide_rank=True)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseung20&layout=compact&theme=dracula&hide_rank=True)
-  
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yooseung20&theme=merko)](https://git.io/streak-stats)
 
+-->
 
 
 
